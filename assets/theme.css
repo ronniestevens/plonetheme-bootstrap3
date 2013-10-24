@@ -17,6 +17,17 @@ ul.navTree {
 .col-sm-6 {
     padding-bottom: 15px;
 }
-.nestedfolderview h4 {
-    margin-left: 15px;
+
+#edit-bar, #content ul.formTabs {
+    margin-bottom: 20px;
+}
+#personaltools {
+    padding-top: 15px;
+}
+.table-striped,
+.table-hover,
+.table-bordered,
+.table-condensed{
+    margin-bottom: 20px;
+    width: 100%;
 }
