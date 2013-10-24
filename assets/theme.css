@@ -14,3 +14,9 @@ ul.navTree {
 .hidden {
     display: none;
 }
+.col-sm-6 {
+    padding-bottom: 15px;
+}
+.nestedfolderview h4 {
+    margin-left: 15px;
+}
