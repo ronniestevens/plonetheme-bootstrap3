@@ -1,5 +1,8 @@
 /* Theme-specific styling
  */
+.navbar {
+    margin-bottom: 0;
+}
 .thumbnail img {
     margin-left: auto;
     margin-right: auto;
@@ -30,4 +33,27 @@ ul.navTree {
 .table-condensed{
     margin-bottom: 20px;
     width: 100%;
+}
+#slider {
+    padding: 0;
+}
+.flexslider {
+    border: 0 none;
+    margin: 0 0 20px;
+}
+.flex-caption {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.5);
+    bottom: 0;
+    display: block;
+    left: 0;
+    margin: 0;
+    padding: 10px;
+    position: absolute;
+    width: 37%;
+}
+.flex-caption {
+    border-left: 4px solid #5C8F27;
+}
+.flex-caption h3 {
+    color: #ffffff;
 }
